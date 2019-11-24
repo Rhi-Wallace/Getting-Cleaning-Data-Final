@@ -18,5 +18,5 @@ Here you will find my final assignment for "Getting and Cleaning Data". With the
 - Produces a .txt of the final results
 
 Note: 
-1.) You will need to install and load the Reshape2 package in order to run this script.
-2.) The txt table will be saved in your working directory.
+- 1.) You will need to install and load the Reshape2 package in order to run this script.
+- 2.) The txt table will be saved in your working directory.
